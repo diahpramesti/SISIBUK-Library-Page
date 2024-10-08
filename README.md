@@ -14,3 +14,14 @@
 <p>- Easy-to-use interface for managing and browsing book collections.</p>
 <p>- Scalable architecture using Apache Jena Fuseki as the semantic database engine.</p>
 <p>- Public-facing domain for easy access to the system.</p>
+
+## **TECHNOLOGY**
+<p>- Apache Jena Fuseki</p>
+<p>- Ontology Semantic Database</p>
+<p>- Web Application Interface</p>
+
+##
+<h3>
+    SISIBUK is perfect for libraries, personal book collections, or any environment where structured and smart information management is needed.
+    </br></br>
+</h3>
