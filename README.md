@@ -9,17 +9,8 @@
     </br></br>
 </h3>
 
-## **FUNGSI APLIKASI**
-
-<ul>
-  <li>
-    <h3>First Function</h3>
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus rhoncus dapibus. Phasellus vulputate pellentesque nulla id pretium. Donec nunc enim, dictum sit amet purus a, interdum accumsan mauris. Vestibulum.
-
-  </li>
-  <li>
-    <h3>Second Function</h3>
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus rhoncus dapibus. Phasellus vulputate pellentesque nulla id pretium. Donec nunc enim, dictum sit amet purus a, interdum accumsan mauris. Vestibulum.
-</ul>
+## **FEATURES**
+<p>- Ontology-based semantic search for more accurate book retrieval.</p>
+<p>- Easy-to-use interface for managing and browsing book collections.</p>
+<p>- Scalable architecture using Apache Jena Fuseki as the semantic database engine.</p>
+<p>- Public-facing domain for easy access to the system.</p>
